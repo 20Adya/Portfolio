@@ -1,0 +1,22 @@
+[
+    {
+      "title": "DSA",
+      "imageSrc": "skills/dsa.png"
+    },
+  
+    {
+      "title": "Software Engineering",
+      "imageSrc": "skills/se.png"
+    },
+    {
+      "title": "Oops",
+      "imageSrc": "skills/oops.jpeg"
+    },
+    {
+      "title": "Computer Networks",
+      "imageSrc": "skills/cn.png"
+    }
+    
+   
+  ] 
+  

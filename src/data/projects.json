@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Amazon Clone",
+      "imageSrc": "projects/project.png",
+      "description": "This is a clone of popular e-commmerce website Amazon using only frontend.",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Blog Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made for users to write, edit, delete posts.",
+      "skills": ["EJS", "Express", "Node JS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "News Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made by calling APIs to display latest news.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
